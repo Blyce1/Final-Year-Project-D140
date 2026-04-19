@@ -41,3 +41,8 @@ Optional flags:
 **Model Training**
 
 Open `yolo_obb_training.ipynb` or `yolo_pose_training.ipynb` in Jupyter and run cells sequentially. Update the `data` path in the training cell to point to your local dataset YAML file.
+
+## Data and Recordings
+
+Drone footage and condition analysis outputs are available for download:
+[Download Dataset and Results](https://drive.google.com/file/d/1BKh54JwYt3xcuWx3ME_NkaAYLFB1LntN/view)
